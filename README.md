@@ -43,10 +43,10 @@ You should have the following file structure:
 
 ### Local
 
-Whether you are using conda, your base python installation, or a classis python venv, you need the following libraries:
+Whether you are using conda, your base python installation, or a classic python venv, you need the following libraries:
 
 * pandas
 * scikit-learn
 * apache-beam
 
-Above that you will need to download the dataset and place it in the `data/` folder as explained above.
+The data should be downloaded automatically if you clone the repo wiht `git clone https://github.com/DAG-EPFL/visium-workshop-apache-beam.git`.
