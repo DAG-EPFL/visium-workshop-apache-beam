@@ -49,4 +49,4 @@ Whether you are using conda, your base python installation, or a classic python 
 * scikit-learn
 * apache-beam
 
-The data should be downloaded automatically if you clone the repo wiht `git clone https://github.com/DAG-EPFL/visium-workshop-apache-beam.git`.
+The data should be downloaded automatically if you clone the repo with `git clone https://github.com/DAG-EPFL/visium-workshop-apache-beam.git`.
